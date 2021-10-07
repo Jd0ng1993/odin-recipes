@@ -12,3 +12,8 @@ GOALS
 End of Document 10.7.21 18:14
 
 Just made first Commit of README.md adding this in to learn more about github before beginning project.
+
+Lets Begin 18:20 
+Created index.html and recipes.html. Added a link to a page with a lasagna recipe. Added a picture and awesome description of said lasagna.
+
+Commit at 18:42 10.7
