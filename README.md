@@ -10,3 +10,5 @@ GOALS
 6)Add at the bottom of this document an acutal Readme about the website
 
 End of Document 10.7.21 18:14
+
+Just made first Commit of README.md adding this in to learn more about github before beginning project.
