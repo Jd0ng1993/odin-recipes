@@ -17,3 +17,5 @@ Lets Begin 18:20
 Created index.html and recipes.html. Added a link to a page with a lasagna recipe. Added a picture and awesome description of said lasagna.
 
 Commit at 18:42 10.7
+
+Added Chocolate chip cookie recipe page with picture. Commited 17:07 10/9
