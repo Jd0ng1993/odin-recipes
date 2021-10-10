@@ -1,0 +1,27 @@
+p {
+    color: purple;
+    background-color: lawngreen;
+}
+
+ul {
+    background-color: black;
+    color: white;
+}
+
+ol {
+    background-color: blue;
+    color: gray;
+}
+
+body {
+    height: auto;
+    width: auto;
+    background-color: indigo;
+}
+
+h1 {
+    background-color: khaki;
+    color: peru;
+    font-weight: 900;
+    font-family: fantasy, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
